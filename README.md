@@ -6,15 +6,6 @@ I'm a physics undergraduate passionate about **experimental physics**, **data an
 
 ---
 
-## 🔬 Current Research
-
-I'm currently working on a scientific initiation project at **UFRGS** under the guidance of Dr. César Augusto Bernardes. My research focuses on analyzing **Hanbury-Brown and Twiss (HBT) correlations** in ultra-relativistic PbPb collisions at a center-of-mass energy of 2.76 TeV per nucleon pair, using CMS Open Data. The project aims to explore the spatial and temporal dimensions of particle-emitting regions, providing insights into the properties of **Quark-Gluon Plasma (QGP)**.
-
-- **Project Repository**: [HBT-in-Peripheral-PbPb-Collisions](https://github.com/yourusername/HBT-in-Peripheral-PbPb-Collisions)
-- **Key Tools**: ROOT, C++, Python, Visual Studio Code (multithreading enabled)
-
----
-
 ## 🧑‍🔧 Skills and Technologies
 
 - **Programming Languages**: ROOT, Python, C, C++, C#, SQL, JavaScript
