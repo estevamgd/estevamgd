@@ -4,20 +4,19 @@
        <img src="https://github.com/estevamgd/estevamgd/blob/main/readme_image.jpg" alt="" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-
 </p>
 
     /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
     │
     ├── /𝐁𝐈𝐎
-    │    ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ + sᴘᴀɴɪsʜ)
+    │    ├── ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴ + ᴇs)
     │    ├── ᴘʜʏsɪᴄs ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ 
     │    ├── ᴘᴀʀᴛɪᴄʟᴇ ᴘʜʏsɪᴄs
     │    ├── ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
     │    ├── sᴄɪᴇɴᴛɪғɪᴄ ɪɴɪᴛɪᴀᴛɪᴏɴ ᴘʀᴏᴊᴇᴄᴛ
-    │    ├── Hᴀɴʙᴜʀʏ-ʙʀᴏᴡɴ ᴀɴᴅ Tᴡɪss (HBT) ᴄᴏʀʀᴇʟᴀᴛɪᴏɴs
-    │    └── PʙPʙ ᴄᴏʟʟɪsɪᴏɴs ᴀᴛ 2.76 TᴇV ᴡɪᴛʜ Cᴍs ᴏᴘᴇɴ Dᴀᴛᴀ
+    │    ├── Hᴀɴʙᴜʀʏ-ʙʀᴏᴡɴ ᴀɴᴅ Tᴡɪss (HBT)
+    │    ├── PʙPʙ ᴄᴏʟʟɪsɪᴏɴs ᴀᴛ 2.76 TᴇV
+    │    └── Cᴍs ᴏᴘᴇɴ Dᴀᴛᴀ
     │
     ├── /𝐎𝐒
     │    ├── /ʟɪɴᴜx (ᴍᴀɪɴ)
